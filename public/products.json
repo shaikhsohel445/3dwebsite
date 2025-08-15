@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Premium Ecuadorian Bananas",
+      "country": "Ecuador",
+      "season": "Year-round",
+      "pricePerKg": "$2.50",
+      "pricePerCarton": "$45.00",
+      "image": "/placeholder.svg?height=300&width=400",
+      "description": "Sweet, creamy bananas from the fertile valleys of Ecuador",
+      "specifications": {
+        "variety": "Cavendish",
+        "packaging": "18kg cartons",
+        "shelfLife": "14-21 days"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Indian Alphonso Mangoes",
+      "country": "India",
+      "season": "April - June",
+      "pricePerKg": "$8.00",
+      "pricePerCarton": "$120.00",
+      "image": "/placeholder.svg?height=300&width=400",
+      "description": "The king of mangoes with unmatched sweetness and aroma",
+      "specifications": {
+        "variety": "Alphonso",
+        "packaging": "15kg cartons",
+        "shelfLife": "7-10 days"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Chilean Red Grapes",
+      "country": "Chile",
+      "season": "December - April",
+      "pricePerKg": "$4.50",
+      "pricePerCarton": "$85.00",
+      "image": "/placeholder.svg?height=300&width=400",
+      "description": "Crisp, sweet red grapes from Chile's premium vineyards",
+      "specifications": {
+        "variety": "Red Globe",
+        "packaging": "18.5kg cartons",
+        "shelfLife": "30-45 days"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Thai Golden Pineapples",
+      "country": "Thailand",
+      "season": "Year-round",
+      "pricePerKg": "$3.20",
+      "pricePerCarton": "$65.00",
+      "image": "/placeholder.svg?height=300&width=400",
+      "description": "Juicy, tropical pineapples with perfect sweetness",
+      "specifications": {
+        "variety": "MD2 Golden",
+        "packaging": "20kg cartons",
+        "shelfLife": "14-21 days"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Turkish Dried Apricots",
+      "country": "Turkey",
+      "season": "June - August",
+      "pricePerKg": "$12.00",
+      "pricePerCarton": "$240.00",
+      "image": "/placeholder.svg?height=300&width=400",
+      "description": "Sun-dried apricots with intense natural sweetness",
+      "specifications": {
+        "variety": "Malatya",
+        "packaging": "20kg cartons",
+        "shelfLife": "12 months"
+      }
+    },
+    {
+      "id": 6,
+      "name": "South African Avocados",
+      "country": "South Africa",
+      "season": "March - September",
+      "pricePerKg": "$6.80",
+      "pricePerCarton": "$135.00",
+      "image": "/placeholder.svg?height=300&width=400",
+      "description": "Creamy, nutrient-rich avocados from South African orchards",
+      "specifications": {
+        "variety": "Hass",
+        "packaging": "20kg cartons",
+        "shelfLife": "14-21 days"
+      }
+    }
+  ]
+}
